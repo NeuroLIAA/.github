@@ -1,5 +1,5 @@
 # NeuroLIAA
-We are a research group that is part of the [Applied Artificial Intelligence Laboratory (LIAA)](https://icc.fcen.uba.ar/) in the Department of Computer Science, Exact and Natural Sciences, University of Buenos Aires, Argentina.
+We are a research group in the [Applied Artificial Intelligence Laboratory (LIAA)](https://icc.fcen.uba.ar/), which is part of the Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires and the Instituto de Investigación en Ciencias de la Computación (ICC), CONICET-UBA, Argentina.
 
 The neuroLIAA is an interdisciplinary environment that combines different aspects of computational and cognitive neuroscience, computational psychiatry and data science, using different techniques such as EEG, MEG, eye tracking, modeling, among others.
 
