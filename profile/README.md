@@ -6,6 +6,8 @@ We are part of the [Applied Artificial Intelligence Laboratory (LIAA)](https://i
 # Current Members
 [Juan Kamienkowski (PI)](https://liaa.dc.uba.ar/juan-kamienkowski/), [Bruno Bianchi](https://liaa.dc.uba.ar/bruno-bianchi-en/), [Marcos Pietto](https://liaa.dc.uba.ar/marcos-pietto/), [Gastón Bujía](https://liaa.dc.uba.ar/gaston-bujia/), [Damián Care](https://github.com/incubodac), [Gustavo Juantorena](https://liaa.dc.uba.ar/gustavo-juantorena-en/), [Fermín Travi](https://liaa.dc.uba.ar/fermin-travi/), [Gonzalo Ruarte](https://liaa.dc.uba.ar/gonzalo-ruarte/), [Joaquin Gonzalez](https://liaa.dc.uba.ar/joaquin-gonzalez/), [Agustín Penas](https://github.com/agustin-penas), [Gianluca Capelo](https://github.com/gianluca-capelo), Alfredo Umfurer, Cesar Cocaro, Victoria Fiore and Guadalupe Rodriguez Ferrante.
 
+![NeuroLIAA 2024](https://i.postimg.cc/NG4bfBp5/Neuro-LIAA-SAN.png)
+
 # Associated Members
 Federico Giovanetti.
 
