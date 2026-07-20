@@ -9,7 +9,10 @@ We are part of the [Applied Artificial Intelligence Laboratory (LIAA)](https://i
 ![NeuroLIAA 2024](https://i.postimg.cc/NG4bfBp5/Neuro-LIAA-SAN.png)
 
 # Associated Members
-Federico Giovanetti and [Marcos Pietto](https://liaa.dc.uba.ar/marcos-pietto/).
+Federico Giovanetti (UNA, CEMIC-CONICET, Argentina) and [Marcos Pietto](https://liaa.dc.uba.ar/marcos-pietto/) (UNHur, Argentina).
+
+# Collaborators
+Matias Ison (University of Nottingham, UK).
 
 # Former Members
 [Agustín Penas](https://github.com/agustin-penas), Mateo Feldman, Jhosept Sanchez, Agustin Delmagro, Gabriel Leclercq, Facundo Totaro, Belén Páez, Agustin Gianolini, Nicolás Sawczuk, Francisco Figari, Ignacio Linari, Mathias Gatti, Rodrigo Loredo, Jeremías Albano, Melanie Sclar, Gastón Bengolea Monzón, Tomás Geffner.
